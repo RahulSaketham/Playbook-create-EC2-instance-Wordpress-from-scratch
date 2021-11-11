@@ -278,16 +278,3 @@ ansible-playbook main.yml --syntax-check
  ```bash
 ansible-playbook main.yml
 ```
- ## Sample Output:
-
-![](https://i.ibb.co/XZcj2Gv/11.png)
-![](https://i.ibb.co/4fqvW5L/4.png)
-
-x------------------x---------------------x---------------------x-------------------x--------------------x---------------------x-------------------x
-### ⚙️ Connect with Me 
-
-<p align="center">
-<a href="mailto:dilshad.lalu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dilshadkp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/dilshad_a.k.a_lalu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/%2B919567344212?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a><br />
